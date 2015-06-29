@@ -273,27 +273,11 @@
 		margin: 0px 0 -1px 0px;
 	}
 
-	.row.uniform.\30 \25 > * {
-		padding: 0px 0 0 0px;
-	}
-
-	.row.uniform.\30 \25 {
-		margin: 0px 0 -1px 0px;
-	}
-
 	.row > * {
 		padding: 50px 0 0 50px;
 	}
 
 	.row {
-		margin: -50px 0 -1px -50px;
-	}
-
-	.row.uniform > * {
-		padding: 50px 0 0 50px;
-	}
-
-	.row.uniform {
 		margin: -50px 0 -1px -50px;
 	}
 
@@ -305,27 +289,12 @@
 		margin: -100px 0 -1px -100px;
 	}
 
-	.row.uniform.\32 00\25 > * {
-		padding: 100px 0 0 100px;
-	}
-
-	.row.uniform.\32 00\25 {
-		margin: -100px 0 -1px -100px;
-	}
 
 	.row.\31 50\25 > * {
 		padding: 75px 0 0 75px;
 	}
 
 	.row.\31 50\25 {
-		margin: -75px 0 -1px -75px;
-	}
-
-	.row.uniform.\31 50\25 > * {
-		padding: 75px 0 0 75px;
-	}
-
-	.row.uniform.\31 50\25 {
 		margin: -75px 0 -1px -75px;
 	}
 
@@ -337,27 +306,11 @@
 		margin: -25px 0 -1px -25px;
 	}
 
-	.row.uniform.\35 0\25 > * {
-		padding: 25px 0 0 25px;
-	}
-
-	.row.uniform.\35 0\25 {
-		margin: -25px 0 -1px -25px;
-	}
-
 	.row.\32 5\25 > * {
 		padding: 12.5px 0 0 12.5px;
 	}
 
 	.row.\32 5\25 {
-		margin: -12.5px 0 -1px -12.5px;
-	}
-
-	.row.uniform.\32 5\25 > * {
-		padding: 12.5px 0 0 12.5px;
-	}
-
-	.row.uniform.\32 5\25 {
 		margin: -12.5px 0 -1px -12.5px;
 	}
 
@@ -502,27 +455,11 @@
 			margin: -40px 0 -1px -40px;
 		}
 
-		.row.uniform > * {
-			padding: 40px 0 0 40px;
-		}
-
-		.row.uniform {
-			margin: -40px 0 -1px -40px;
-		}
-
 		.row.\32 00\25 > * {
 			padding: 80px 0 0 80px;
 		}
 
 		.row.\32 00\25 {
-			margin: -80px 0 -1px -80px;
-		}
-
-		.row.uniform.\32 00\25 > * {
-			padding: 80px 0 0 80px;
-		}
-
-		.row.uniform.\32 00\25 {
 			margin: -80px 0 -1px -80px;
 		}
 
@@ -534,14 +471,6 @@
 			margin: -60px 0 -1px -60px;
 		}
 
-		.row.uniform.\31 50\25 > * {
-			padding: 60px 0 0 60px;
-		}
-
-		.row.uniform.\31 50\25 {
-			margin: -60px 0 -1px -60px;
-		}
-
 		.row.\35 0\25 > * {
 			padding: 20px 0 0 20px;
 		}
@@ -550,27 +479,11 @@
 			margin: -20px 0 -1px -20px;
 		}
 
-		.row.uniform.\35 0\25 > * {
-			padding: 20px 0 0 20px;
-		}
-
-		.row.uniform.\35 0\25 {
-			margin: -20px 0 -1px -20px;
-		}
-
 		.row.\32 5\25 > * {
 			padding: 10px 0 0 10px;
 		}
 
 		.row.\32 5\25 {
-			margin: -10px 0 -1px -10px;
-		}
-
-		.row.uniform.\32 5\25 > * {
-			padding: 10px 0 0 10px;
-		}
-
-		.row.uniform.\32 5\25 {
 			margin: -10px 0 -1px -10px;
 		}
 
@@ -765,27 +678,11 @@
 			margin: -15px 0 -1px -15px;
 		}
 
-		.row.uniform.\35 0\25 > * {
-			padding: 15px 0 0 15px;
-		}
-
-		.row.uniform.\35 0\25 {
-			margin: -15px 0 -1px -15px;
-		}
-
 		.row.\32 5\25 > * {
 			padding: 7.5px 0 0 7.5px;
 		}
 
 		.row.\32 5\25 {
-			margin: -7.5px 0 -1px -7.5px;
-		}
-
-		.row.uniform.\32 5\25 > * {
-			padding: 7.5px 0 0 7.5px;
-		}
-
-		.row.uniform.\32 5\25 {
 			margin: -7.5px 0 -1px -7.5px;
 		}
 
@@ -932,27 +829,11 @@
 			margin: -30px 0 -1px -30px;
 		}
 
-		.row.uniform > * {
-			padding: 30px 0 0 30px;
-		}
-
-		.row.uniform {
-			margin: -30px 0 -1px -30px;
-		}
-
 		.row.\32 00\25 > * {
 			padding: 60px 0 0 60px;
 		}
 
 		.row.\32 00\25 {
-			margin: -60px 0 -1px -60px;
-		}
-
-		.row.uniform.\32 00\25 > * {
-			padding: 60px 0 0 60px;
-		}
-
-		.row.uniform.\32 00\25 {
 			margin: -60px 0 -1px -60px;
 		}
 
@@ -964,14 +845,6 @@
 			margin: -45px 0 -1px -45px;
 		}
 
-		.row.uniform.\31 50\25 > * {
-			padding: 45px 0 0 45px;
-		}
-
-		.row.uniform.\31 50\25 {
-			margin: -45px 0 -1px -45px;
-		}
-
 		.row.\35 0\25 > * {
 			padding: 15px 0 0 15px;
 		}
@@ -980,27 +853,11 @@
 			margin: -15px 0 -1px -15px;
 		}
 
-		.row.uniform.\35 0\25 > * {
-			padding: 15px 0 0 15px;
-		}
-
-		.row.uniform.\35 0\25 {
-			margin: -15px 0 -1px -15px;
-		}
-
 		.row.\32 5\25 > * {
 			padding: 7.5px 0 0 7.5px;
 		}
 
 		.row.\32 5\25 {
-			margin: -7.5px 0 -1px -7.5px;
-		}
-
-		.row.uniform.\32 5\25 > * {
-			padding: 7.5px 0 0 7.5px;
-		}
-
-		.row.uniform.\32 5\25 {
 			margin: -7.5px 0 -1px -7.5px;
 		}
 
@@ -1147,27 +1004,11 @@
 			margin: -30px 0 -1px -30px;
 		}
 
-		.row.uniform > * {
-			padding: 30px 0 0 30px;
-		}
-
-		.row.uniform {
-			margin: -30px 0 -1px -30px;
-		}
-
 		.row.\32 00\25 > * {
 			padding: 60px 0 0 60px;
 		}
 
 		.row.\32 00\25 {
-			margin: -60px 0 -1px -60px;
-		}
-
-		.row.uniform.\32 00\25 > * {
-			padding: 60px 0 0 60px;
-		}
-
-		.row.uniform.\32 00\25 {
 			margin: -60px 0 -1px -60px;
 		}
 
@@ -1179,14 +1020,6 @@
 			margin: -45px 0 -1px -45px;
 		}
 
-		.row.uniform.\31 50\25 > * {
-			padding: 45px 0 0 45px;
-		}
-
-		.row.uniform.\31 50\25 {
-			margin: -45px 0 -1px -45px;
-		}
-
 		.row.\35 0\25 > * {
 			padding: 15px 0 0 15px;
 		}
@@ -1195,27 +1028,11 @@
 			margin: -15px 0 -1px -15px;
 		}
 
-		.row.uniform.\35 0\25 > * {
-			padding: 15px 0 0 15px;
-		}
-
-		.row.uniform.\35 0\25 {
-			margin: -15px 0 -1px -15px;
-		}
-
 		.row.\32 5\25 > * {
 			padding: 7.5px 0 0 7.5px;
 		}
 
 		.row.\32 5\25 {
-			margin: -7.5px 0 -1px -7.5px;
-		}
-
-		.row.uniform.\32 5\25 > * {
-			padding: 7.5px 0 0 7.5px;
-		}
-
-		.row.uniform.\32 5\25 {
 			margin: -7.5px 0 -1px -7.5px;
 		}
 
@@ -1362,27 +1179,11 @@
 			margin: -20px 0 -1px -20px;
 		}
 
-		.row.uniform > * {
-			padding: 20px 0 0 20px;
-		}
-
-		.row.uniform {
-			margin: -20px 0 -1px -20px;
-		}
-
 		.row.\32 00\25 > * {
 			padding: 40px 0 0 40px;
 		}
 
 		.row.\32 00\25 {
-			margin: -40px 0 -1px -40px;
-		}
-
-		.row.uniform.\32 00\25 > * {
-			padding: 40px 0 0 40px;
-		}
-
-		.row.uniform.\32 00\25 {
 			margin: -40px 0 -1px -40px;
 		}
 
@@ -1394,13 +1195,6 @@
 			margin: -30px 0 -1px -30px;
 		}
 
-		.row.uniform.\31 50\25 > * {
-			padding: 30px 0 0 30px;
-		}
-
-		.row.uniform.\31 50\25 {
-			margin: -30px 0 -1px -30px;
-		}
 
 		.row.\35 0\25 > * {
 			padding: 10px 0 0 10px;
@@ -1410,27 +1204,11 @@
 			margin: -10px 0 -1px -10px;
 		}
 
-		.row.uniform.\35 0\25 > * {
-			padding: 10px 0 0 10px;
-		}
-
-		.row.uniform.\35 0\25 {
-			margin: -10px 0 -1px -10px;
-		}
-
 		.row.\32 5\25 > * {
 			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 5\25 {
-			margin: -5px 0 -1px -5px;
-		}
-
-		.row.uniform.\32 5\25 > * {
-			padding: 5px 0 0 5px;
-		}
-
-		.row.uniform.\32 5\25 {
 			margin: -5px 0 -1px -5px;
 		}
 
@@ -1577,27 +1355,11 @@
 			margin: -20px 0 -1px -20px;
 		}
 
-		.row.uniform > * {
-			padding: 20px 0 0 20px;
-		}
-
-		.row.uniform {
-			margin: -20px 0 -1px -20px;
-		}
-
 		.row.\32 00\25 > * {
 			padding: 40px 0 0 40px;
 		}
 
 		.row.\32 00\25 {
-			margin: -40px 0 -1px -40px;
-		}
-
-		.row.uniform.\32 00\25 > * {
-			padding: 40px 0 0 40px;
-		}
-
-		.row.uniform.\32 00\25 {
 			margin: -40px 0 -1px -40px;
 		}
 
@@ -1609,14 +1371,6 @@
 			margin: -30px 0 -1px -30px;
 		}
 
-		.row.uniform.\31 50\25 > * {
-			padding: 30px 0 0 30px;
-		}
-
-		.row.uniform.\31 50\25 {
-			margin: -30px 0 -1px -30px;
-		}
-
 		.row.\35 0\25 > * {
 			padding: 10px 0 0 10px;
 		}
@@ -1625,27 +1379,11 @@
 			margin: -10px 0 -1px -10px;
 		}
 
-		.row.uniform.\35 0\25 > * {
-			padding: 10px 0 0 10px;
-		}
-
-		.row.uniform.\35 0\25 {
-			margin: -10px 0 -1px -10px;
-		}
-
 		.row.\32 5\25 > * {
 			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 5\25 {
-			margin: -5px 0 -1px -5px;
-		}
-
-		.row.uniform.\32 5\25 > * {
-			padding: 5px 0 0 5px;
-		}
-
-		.row.uniform.\32 5\25 {
 			margin: -5px 0 -1px -5px;
 		}
 
