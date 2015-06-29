@@ -1,1 +1,0 @@
-Intro to Version Control with Git and HTML
