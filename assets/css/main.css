@@ -1916,6 +1916,10 @@
 			letter-spacing: -0.025em;
 		}
 
+	#contact {
+		 text-align: center;
+	}
+
 	footer {
 		margin: 0 0 3em 0;
 	}
