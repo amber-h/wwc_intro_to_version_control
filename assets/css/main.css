@@ -286,18 +286,6 @@
 		letter-spacing: -0.025em;
 	}
 
-	sub {
-		font-size: 0.8em;
-		position: relative;
-		top: 0.5em;
-	}
-
-	sup {
-		font-size: 0.8em;
-		position: relative;
-		top: -0.5em;
-	}
-
 	hr {
 		border-top: solid 1px #e0e0e0;
 		border: 0;
@@ -321,25 +309,6 @@
 		margin-top: -1.25em;
 		margin-bottom: 2.25em;
 	}
-
-	header.major {
-		text-align: center;
-		margin: 0 0 2em 0;
-	}
-
-		header.major h2 {
-			font-size: 2.25em;
-		}
-
-		header.major p {
-			position: relative;
-			border-top: solid 1px #e0e0e0;
-			padding: 1em 0 0 0;
-			margin: 0;
-			top: -1em;
-			font-size: 1.5em;
-			letter-spacing: -0.025em;
-		}
 
 	#contact {
 		 text-align: center;
@@ -372,28 +341,6 @@
 		.icon > .label {
 			display: none;
 		}
-
-		.icon.major {
-			text-align: center;
-			cursor: default;
-			background-color: #37c0fb;
-			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
-			color: #fff;
-			border-radius: 100%;
-			display: inline-block;
-			width: 5em;
-			height: 5em;
-			line-height: 5em;
-			box-shadow: 0 0 0 7px white, 0 0 0 8px #e0e0e0;
-			margin: 0 0 2em 0;
-		}
-
-			.icon.major:before {
-				font-size: 36px;
-			}
 
 /* Lists */
 
